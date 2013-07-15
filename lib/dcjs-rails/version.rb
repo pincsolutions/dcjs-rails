@@ -1,5 +1,5 @@
 module Dcjs
   module Rails
-    VERSION = "1.2.2"
+    VERSION = "1.4"
   end
 end
